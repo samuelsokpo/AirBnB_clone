@@ -7,7 +7,7 @@
 # AirBnB clone - The console :ab::rocket:
 The AirBnB clone project starts now until… the end of the first year. The goal of the project is to deploy on your server a simple copy of the AirBnB website. 
 
-This project was created to **Holberton School.**
+This project was created to **ALX.**
 
 
 ## Table of contents :clipboard:
