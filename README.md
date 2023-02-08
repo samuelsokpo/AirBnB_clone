@@ -12,15 +12,15 @@ This project was created to **ALX.**
 
 ## Table of contents :clipboard:
 
- - [Description](https://github.com/robpalacios1/AirBnB_clone/#description-triangular_ruler)
- - [Installation](https://github.com/robpalacios1/AirBnB_clone/#installation-floppy_disk)
- - [File description](https://github.com/robpalacios1/AirBnB_clone/blob/master/README.md#file-description-file_folder)
- - [Example](https://github.com/robpalacios1/AirBnB_clone#example-computer)
- - [Contributors](https://github.com/robpalacios1/AirBnB_clone#contributors)
+ - [Description](https://github.com/samuelsokpo/AirBnB_clone/#description-triangular_ruler)
+ - [Installation](https://github.com/samuelsokpo/AirBnB_clone/#installation-floppy_disk)
+ - [File description](https://github.com/samuelsokpo/AirBnB_clone/blob/master/README.md#file-description-file_folder)
+ - [Example](https://github.com/samuelsokpo/AirBnB_clone#example-computer)
+ - [Contributors](https://github.com/samuelsokpo/AirBnB_clone#contributors)
 
 ## Description :triangular_ruler:
 
-The console is the first segment of the `AirBnB project` at `Holberton School` that will collectively cover fundamental concepts of higher level programming. The goal of `AirBnB project` is to eventually deploy our server a simple copy of the `AirBnB Website(HBnB)`. A command interpreter is created in this segment to manage objects for the `AirBnB(HBnB) website.`
+The console is the first segment of the `AirBnB project` at `ALX` that will collectively cover fundamental concepts of higher level programming. The goal of `AirBnB project` is to eventually deploy our server a simple copy of the `AirBnB Website(HBnB)`. A command interpreter is created in this segment to manage objects for the `AirBnB(HBnB) website.`
 
 This is the first step towards building our first full web application: the AirBnB clone.
 
@@ -37,7 +37,7 @@ A command interpreter to manage our Airbnb clone objects:
  </p>
 
 ## Installation :floppy_disk:
- - Clone this repository: `git clone "https://github.com/robpalacios1/AirBnB_clone.git"`
+ - Clone this repository: `git clone "https://github.com/samuelsokpo/AirBnB_clone.git"`
  - Access AirBnb directory: `cd AirBnB_clone`
  - Run hbnb(interactively): `./console` and enter command
  - Run hbnb(non-interactively): `echo "<command>" | ./console.py`
@@ -57,4 +57,4 @@ AUTHORS     /models    test_base_model_dict.py    test_base_model.py    README.m
 </p>
 
 ## Contributors :two_women_holding_hands:  
-[@Hugo Santiago - Github](https://github.com/hfsantiago) - [@Roberto Palacios - Github](https://github.com/robpalacios1) 
+[@Samuel S. Okpo - Github](https://github.com/samuelsokpo) - [@Roberto Palacios - Github](https://github.com/robpalacios1) 
