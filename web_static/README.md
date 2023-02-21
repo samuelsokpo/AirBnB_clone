@@ -63,4 +63,4 @@ Before starting, please fork or clone the repository AirBnB_clone from your part
 - You have to follow all requirements but some margin/padding are missing - you should try to fit as much as you can to screenshots
 
 ## Author :book:
-Roberto Palacios [Twitter](https://twitter.com/robpalacios11) | [GitHub](https://github.com/robpalacios1)
+Samuel S. Okpo [Twitter](https://twitter.com/okposunny) | [GitHub](https://github.com/samuelsokpo)
